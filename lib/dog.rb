@@ -8,15 +8,5 @@ class Dog
   end
 end 
 
-def bark 
-  @this_dogs_name
-end 
-end 
-  
-  def bark
-    puts "Woof!"
-  end
-end
-
   
   
