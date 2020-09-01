@@ -12,6 +12,6 @@ end
 picasso = Dog.new 
 picasso.bark 
 
-  puts "woof!"
+puts "woof!"
   
   
