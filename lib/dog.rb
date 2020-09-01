@@ -17,6 +17,7 @@ end
 picasso = Dog.new 
 picasso.name = "Picasso"
 
-puts "woof!"
+puts picasso.name 
+
   
   
