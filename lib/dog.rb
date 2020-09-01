@@ -5,7 +5,6 @@ class Dog
 
 def name
   this_dogs_name
-  puts "woof!"
 end 
 end 
 
@@ -13,7 +12,6 @@ end
 picasso = Dog.new 
 picasso.bark 
 
-  
-  
+  puts "woof!"
   
   
