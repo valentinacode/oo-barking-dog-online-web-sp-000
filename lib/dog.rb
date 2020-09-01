@@ -8,6 +8,8 @@ def name
 end 
 end 
 
+def bark 
+  
 
 picasso = Dog.new 
 picasso.name = "Picasso"
